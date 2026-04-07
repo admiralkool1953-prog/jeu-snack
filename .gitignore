@@ -1,0 +1,29 @@
+# Fichiers compilés
+*.o
+*.exe
+*.out
+*.so
+*.dll
+*.dylib
+
+# Dossier build
+build/
+dist/
+bin/
+
+# Éditeurs et IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Fichiers système
+Thumbs.db
+.env
+*.log
+
+# Dépendances (si vous en ajoutez)
+/node_modules/
+/vendor/
